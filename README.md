@@ -152,5 +152,6 @@ Von diesem Ordner kannst du die Datei aud deinen, über USB angeschlossenen Call
 
 ## ~ @unplugged 
 Um nochmal zu sehen wie du ein Programm erstellst und speicherst schau dir auch gerne dieses Video an: <br>
-![Video](https://www.youtube.com/watch?v=X8NxRAL4snk?raw=true)
+[Video](https://www.youtube.com/watch?v=X8NxRAL4snk)
 
+Viel Spaß noch beim weiteren Programmieren :-)
