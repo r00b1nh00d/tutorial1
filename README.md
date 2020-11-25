@@ -147,40 +147,10 @@ input.onButtonPressed(Button.A, function () {
 Um dein Programm aud den Calliope zu bekommen musst du im unteren Bildschirmbereich des MakeCode Editors auf ``||basic: Herunterladen||``klicken. <br>
 Jetzt wird dein Programm als mini- .... .hex Datei gespeichert. Diese wird in deinem Downloadsordner gespeichet. <br>
 Von diesem Ordner kannst du die Datei aud deinen, über USB angeschlossenen Calliope schieben qiw beim kopieren bzw. Verschieben von Dateien auf einen USB-Stick.
-[Bild]
+![BildSpeichern](https://github.com/r00b1nh00d/tutorial1/blob/master/Speichern.PNG?raw=true)
 
 
 ## ~ @unplugged 
-[Video]
+Um nochmal zu sehen wie du ein Programm erstellst und speicherst schau dir auch gerne dieses Video an: <br>
+[Video](https://www.youtube.com/watch?v=X8NxRAL4snk)
 
-
-> Diese Seite bei [https://r00b1nh00d.github.io/tutorial1/](https://r00b1nh00d.github.io/tutorial1/) öffnen
-
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/r00b1nh00d/tutorial1** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/r00b1nh00d/tutorial1/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/r00b1nh00d/tutorial1** ein und klicke auf Importieren
-
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/r00b1nh00d/tutorial1/raw/master/.github/makecode/blocks.png)
-
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
