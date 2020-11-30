@@ -10,7 +10,8 @@ Unter [Programmieren](https://calliope.cc/programmieren/mobil) wird dir z.B. auc
 
 ## ~@unplugged
 Bei einigen Projekten wird auch mal etwas gebastelt dazu könntest du folgende Dinge benötigen: 
- **Elektronik:** <br>        
+ **Elektronik:** <br>  
+ 
  [Calliope mini](https://calliope.cc/calliope-mini/shops) <br>       
  [Jumperkabel](https://www.google.com/search?q=jumperkabel&rlz=1C1CHBD_deDE928DE928&oq=jumperkabel&aqs=chrome..69i57j0i10l7.2496j0j4&sourceid=chrome&ie=UTF-8)  <br>      
  [Dünne Kabel(Litze)](https://www.google.com/search?rlz=1C1CHBD_deDE928DE928&sxsrf=ALeKk00B8p7aZFQpUrCq-lC7z8e-fji0Gg%3A1606735820869&ei=zNfEX5i6NMicsAflnoCICQ&q=litze&oq=litze&gs_lcp=CgZwc3ktYWIQAzIHCAAQFBCHAjIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQRzoECCMQJzoICAAQsQMQgwE6CAguELEDEIMBOgUILhCxAzoCCC5Q2KABWMetAWCXsAFoAHADeACAAVyIAY0DkgEBNZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwiY0OaulartAhVIDuwKHWUPAJEQ4dUDCA0&uact=5) <br>       
