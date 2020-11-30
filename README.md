@@ -47,18 +47,8 @@ Allerdings hat dieser Bildschirm nur 5 mal 5 Pixel. Dennoch kannst du damit so e
 In deinem Arbeitsbereich sollten bereits die Blöcke ``||basic:beim Start||`` und ``||basic:dauerhaft||`` liegen. <br>
 Um ein Bild anzeigen zu lassen, kannst du aus der Gruppe ``||basic:Grundlagen||`` den Block ``||basic:zeige LEDs||`` in deinen ``||basic:dauerhaft||`` Block per Drag and Drop schieben. <br>
 Um einen Block, wie beispielsweise den ``||basic:beim Start||`` zu löschen, kannst du ihn auch einfach wieder anklicken und angeklickt zurück in die Blockansicht schieben. Währenddessen wird dieser Bereich rot und zeigt ein Mülleimersymbol. <br>
+![ersterSchritt](https://github.com/r00b1nh00d/tutorial1/blob/master/Einfuhrung.gif?auto=compress%2Cformat&w=740&h=555&fit=max)
 
-```blocks
-basic.forever(function () {
-    basic.showLeds(`
-        . . . . .
-        . . . . .
-        . . . . .
-        . . . . .
-        . . . . .
-        `)
-})
-```
 
 ## Schritt 2
 In dem Block ``||basic:zeige LEDs||`` kannst du die einzelnen Felder anklicken, diese werden dann ausgefüllt und sind somit "aktiv"; der Calliope zeigt dir dies auch im Simulator an. Klickst du ein ausgefülltes Feld neu an, wird es wieder deaktiviert. <br>
