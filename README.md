@@ -8,6 +8,16 @@ Falls du schon einen besitzt aber noch nicht viel damit gemacht hast schau dich 
 In der [Übersicht](https://calliope.cc/calliope-mini/uebersicht) findest du beispielsweise, was der Calliope alles kann. <br>
 Unter [Programmieren](https://calliope.cc/programmieren/mobil) wird dir z.B. auch gezeigt wie du den Calliope über das Smartphone oder Tablet programmierst.<br>
 
+## ~@unplugged
+Bei einigen Projekten wird auch mal etwas gebastelt dazu könntest du folgende Dinge benötigen: 
+| Elektronik            | Sonstiges           | Werkzeug  |
+| -----------------     |:-------------------:| ---------:|
+| Calliope mini         | Buntes Tonpapier    | Bastelmaterial (Schere, Stift..   |
+| Jumperkabel           | Bindfaden           | Alleskleber/ Heißkleber           |
+| Dünne Kabel           | Sperrholz(Pappel)   | ggf. Holzsäge                     |
+| WS2812b RGB LED Band  | Batterie+Halter     | Lötkolben+Lötzinn                 |
+| Servo Motor           | Weihnachtsplätzchen |                                   |
+
 ## ~ @unplugged 
 In diesem Tutorial fangen wir ganz einfach mit unserem ersten Programm an. Bis Weihnachten haben wir ja noch etwas Zeit komplexere Programme zu schreiben. <br> 
 Bis dahin wirst du auch lernen wie du Variablen, wenn-dann-Bedingungen, Schleifen und Listen nutzt oder Spiele programmierst. <br>
