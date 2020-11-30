@@ -43,9 +43,7 @@ Dein Calliope hat einen kleinen Bildschirm mit 5x5 (also zusammen 25) LED's. Mit
 Allerdings hat dieser Bildschirm nur 5 mal 5 Pixel. Dennoch kannst du damit so einige Bilder oder Symbole anzeigen. <br>
 ![erstes Programm](https://github.com/r00b1nh00d/tutorial1/blob/master/erstesProgramm.gif?raw=true)
 
-## ~ @unplugged
-Wie du Programme in MakeCode erstellst.<br>
-![ersterSchritt](https://github.com/r00b1nh00d/tutorial1/blob/master/Einfuhrung.gif?raw=true)
+
 
 ## Schritt 1
 In deinem Arbeitsbereich sollten bereits die Blöcke ``||basic:beim Start||`` und ``||basic:dauerhaft||`` liegen. <br>
