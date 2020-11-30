@@ -9,7 +9,7 @@ In der [Übersicht](https://calliope.cc/calliope-mini/uebersicht) findest du bei
 Unter [Programmieren](https://calliope.cc/programmieren/mobil) wird dir z.B. auch gezeigt wie du den Calliope über das Smartphone oder Tablet programmierst.<br>
 
 ## ~@unplugged
-Bei einigen Projekten wird auch mal etwas gebastelt dazu könntest du folgende Dinge benötigen: 
+Bei einigen Projekten wird auch mal etwas gebastelt dazu könntest du folgende Dinge benötigen: <br>
  **Elektronik:** <br>  
  
  [Calliope mini](https://calliope.cc/calliope-mini/shops) <br>       
