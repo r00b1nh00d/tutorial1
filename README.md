@@ -1,7 +1,7 @@
 # KISS_MINT Calliope Adventskalender
 ## ~avatar avatar @unplugged
 **Herzlich Willkommen zum KISS_MINT Calliope Adventskalender** <br>
-![Titelbild](https://github.com/r00b1nh00d/tutorial1/blob/master/73_cut_long.JPG?raw=true)
+![Titelbild](https://github.com/r00b1nh00d/tutorial1/blob/master/73_cut_long.JPG?raw=true) <br>
 Bis Weihnachten erwarten dich hier 24 kleine Projekte zum selber programmieren. <br>
 Die meisten Projekte kannst du auch ohne einen eigenen Calliope ausprobieren. Nur wenn mal etwas an den Calliope angeschlossen werden soll brauchst du selbst einen Calliope. <br>
 Falls du schon einen besitzt aber noch nicht viel damit gemacht hast schau dich gerne auch mal auf [calliope.cc](calliope.cc) um. <br>
@@ -9,14 +9,15 @@ In der [Übersicht](https://calliope.cc/calliope-mini/uebersicht) findest du bei
 Unter [Programmieren](https://calliope.cc/programmieren/mobil) wird dir z.B. auch gezeigt wie du den Calliope über das Smartphone oder Tablet programmierst.<br>
 
 ## ~ @unplugged 
-In diesem Tutorial fangen wir ganz einfach an. Bis Weihnachten haben wir ja noch etwas Zeit komplexere Programme zu schreiben. <br> 
-Bis dahin wirst du noch lernen wie du Variablen, wenn-dann-Bedingungen, Schleifen, Listen nutzt oder Spiele programmierst. <br>
+In diesem Tutorial fangen wir ganz einfach mit unserem ersten Programm an. Bis Weihnachten haben wir ja noch etwas Zeit komplexere Programme zu schreiben. <br> 
+Bis dahin wirst du auch lernen wie du Variablen, wenn-dann-Bedingungen, Schleifen und Listen nutzt oder Spiele programmierst. <br>
 
 
 
 ## ~ @unplugged 
 Dein Calliope hat einen kleinen Bildschirm mit 5x5 (also zusammen 25) LED's. Mit diesem Bildschirm kannst du auch wie auf deinem Smartphone Bilder anzeigen. <br>
 Allerdings wären dies nur 5 mal 5 Pixel, dennoch kannst du damit so einige Bilder oder Symbole anzeigen. <br>
+![erstes Programm](https://github.com/r00b1nh00d/tutorial1/blob/master/erstesProgramm.gif?raw=true)
 
 ## Schritt 1
 In deinem Arbeitsbereich sollten bereits die Blöcke ``||basic:beim Start||`` und ``||basic:dauerhaft||`` liegen. <br>
