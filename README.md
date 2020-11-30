@@ -1,6 +1,7 @@
 # KISS_MINT Calliope Adventskalender
 ## ~avatar avatar @unplugged
-Herzlich Willkommen zum KISS_MINT Calliope Adventskalender <br>
+**Herzlich Willkommen zum KISS_MINT Calliope Adventskalender** <br>
+![Titelbild](https://github.com/r00b1nh00d/tutorial1/blob/master/73_cut_long.JPG?raw=true)
 Bis Weihnachten erwarten dich hier 24 kleine Projekte zum selber programmieren. <br>
 Die meisten Projekte kannst du auch ohne einen eigenen Calliope ausprobieren. Nur wenn mal etwas an den Calliope angeschlossen werden soll brauchst du selbst einen Calliope. <br>
 Falls du schon einen besitzt aber noch nicht viel damit gemacht hast schau dich gerne auch mal auf [calliope.cc](calliope.cc) um. <br>
