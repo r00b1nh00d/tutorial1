@@ -44,8 +44,9 @@ Allerdings hat dieser Bildschirm nur 5 mal 5 Pixel. Dennoch kannst du damit so e
 ![erstes Programm](https://github.com/r00b1nh00d/tutorial1/blob/master/erstesProgramm.gif?raw=true)
 
 ## ~ @unplugged
-Wie du Programme in MakeCode erstellst.
+Wie du Programme in MakeCode erstellst.<br>
 ![ersterSchritt](https://github.com/r00b1nh00d/tutorial1/blob/master/Einfuhrung.gif?raw=true)
+
 ## Schritt 1
 In deinem Arbeitsbereich sollten bereits die Blöcke ``||basic:beim Start||`` und ``||basic:dauerhaft||`` liegen. <br>
 Um ein Bild anzeigen zu lassen, kannst du aus der Gruppe ``||basic:Grundlagen||`` den Block ``||basic:zeige LEDs||`` in deinen ``||basic:dauerhaft||`` Block per Drag and Drop schieben. <br>
