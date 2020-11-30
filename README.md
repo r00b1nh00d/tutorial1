@@ -10,13 +10,27 @@ Unter [Programmieren](https://calliope.cc/programmieren/mobil) wird dir z.B. auc
 
 ## ~@unplugged
 Bei einigen Projekten wird auch mal etwas gebastelt dazu könntest du folgende Dinge benötigen: 
-| Elektronik            | Sonstiges           | Werkzeug  |
-| -----------------     |:-------------------:| ---------:|
-| Calliope mini         | Buntes Tonpapier    | Bastelmaterial (Schere, Stift..   |
-| Jumperkabel           | Bindfaden           | Alleskleber/ Heißkleber           |
-| Dünne Kabel           | Sperrholz(Pappel)   | ggf. Holzsäge                     |
-| WS2812b RGB LED Band  | Batterie+Halter     | Lötkolben+Lötzinn                 |
-| Servo Motor           | Weihnachtsplätzchen |                                   |
+ **Elektronik:** <br>        
+ Calliope mini <br>       
+ Jumperkabel   <br>      
+ Dünne Kabel   <br>       
+ WS2812b RGB LED Band<br> 
+ Servo Motor     <br> 
+
+**Werkzeug** <br>
+Bastelmaterial (Schere, Stift..)<br>
+Alleskleber/ Heißkleber<br>
+Lötkolben+Lötzinn<br>
+ggf. Holzsäge<br>
+
+**Sonstiges:**
+Buntes Tonpapier <br>
+Bindfaden<br>
+Sperrholz(Pappel)<br>
+Batterie+Halter <br>
+Weihnachtsplätzchen<br>
+Karton <br>
+
 
 ## ~ @unplugged 
 In diesem Tutorial fangen wir ganz einfach mit unserem ersten Programm an. Bis Weihnachten haben wir ja noch etwas Zeit komplexere Programme zu schreiben. <br> 
