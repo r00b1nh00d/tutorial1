@@ -28,7 +28,6 @@ ggf. Holzsäge<br>
 Buntes Tonpapier <br>
 Bindfaden<br>
 Sperrholz(Pappel)<br>
- <br>
 Weihnachtsplätzchen<br>
 Karton <br>
 
