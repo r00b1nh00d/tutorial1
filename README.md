@@ -24,7 +24,7 @@ Alleskleber/ Heißkleber<br>
 Lötkolben+Lötzinn<br>
 ggf. Holzsäge<br>
 
-**Sonstiges:**
+**Sonstiges:**<br>
 Buntes Tonpapier <br>
 Bindfaden<br>
 Sperrholz(Pappel)<br>
